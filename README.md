@@ -23,6 +23,6 @@
 - The codes are easily reproducible for calculating the sentiment analysis any Twitter hashtag.                                                                   
 
 
-#	Twitter Crawler/bot (NLP tool for data cleaning, R Language)(https://github.com/datascientist-kenn/Twitter-API-Webcrawler.git) 
+#	[Twitter Crawler/bot (NLP tool for data cleaning, R Language)](https://github.com/datascientist-kenn/Twitter-API-Webcrawler.git) 
 - Twitter is probably the best platform to crawl data from, if any organization wants to understand how the world is reacting to any new global trend. 
 - So, this project intends to provide a tool that, with the availability of the API Details, the organization can collect about 18,000 of the most recent tweets in English language about any global trend and then analyse them with any tool they want.                                                               
