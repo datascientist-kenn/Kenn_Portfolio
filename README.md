@@ -1,4 +1,4 @@
-# Kenn_Portfolio
+# Kenneth Dagogo
 ### Documented Data Science Projects
 
 #	Loan Default Prediction (Python and R)
