@@ -17,7 +17,8 @@
 - Make sure all the libraries at the beginning of the code are installed with pip on your machine. 
 - In command prompt, type the following command to load the dashboard `voila covid19_lm_for_voila.ipynb --template=material --theme=dark` 
 - The project is still subject to modifications, contributions are very welcomed. The code also includes interactive visualisations using Plotly and IPython Widgets in JupyterLab and Jupyter Notebook.
-![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Kenn%20Dagogo%20final%20course%20project%20(Covid19%20dashboard).mp4)
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(113).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(114).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(115).png)
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(116).png)
 
 
 #	[Sentiment Analysis of the COVID19 Pandemic (NLP tool for analysis, R Language)](https://github.com/datascientist-kenn/Sentiment-Analysis-of-the-COVID19-Corona-Virus-Pandemic..git) 
@@ -35,5 +36,4 @@
 - This repository contains Exploratory Data Analysis and several Machine Learning Classifier Models algorithm. 
 - It also contains a DECISION TREE image based on the Gini Index of the data set. 
 - The link to the Kaggle data set is provided here https://www.kaggle.com/mlg-ulb/creditcardfraud/download
-![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(113).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(114).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(115).png)
-![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(116).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(128).png)
+ ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(128).png)
