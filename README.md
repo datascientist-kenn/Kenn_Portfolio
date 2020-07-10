@@ -16,3 +16,8 @@
 - Make sure all the libraries at the beginning of the code are installed with pip on your machine. 
 - In command prompt, type the following command to load the dashboard _voila covid19_lm_for_voila.ipynb --template=material --theme=dark_ 
 - The project is still subject to modifications, contributions are very welcomed. The code also includes interactive visualisations using Plotly and IPython Widgets in JupyterLab and Jupyter Notebook.
+
+
+#	[Sentiment Analysis of the COVID19 Pandemic (NLP tool for analysis, R Language)](https://github.com/datascientist-kenn/Sentiment-Analysis-of-the-COVID19-Corona-Virus-Pandemic..git) 
+- In a bid to understand how people all over the world are reacting to the spread of the Covid19 Pandemic, this project focuses on seeing the words that occur most in tweets from Twitter with #Covid19 hashtag with both WORD-CLOUD and Histogram visualizations and also calculates the analysis scores for both negative and positive sentiments _(Sentiment Analysis Visualized.R file)_. 
+- The codes are easily reproducible for calculating the sentiment analysis any Twitter hashtag.                                                                   
