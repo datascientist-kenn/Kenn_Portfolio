@@ -12,12 +12,12 @@
 - This project, which is for personal analysis, helps me eliminate all the noise and fake news about the number of cases of the Coronavirus pandemic. 
 - This is so that, I can keep track of the actual numbers using a data pipeline from the John Hopkins University live data. 
 - Three Models are also built here to try to predict the future behavior of the virus and possibly predict the end of it.
-![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Kenn%20Dagogo%20final%20course%20project%20(Covid19%20dashboard).mp4)
 
 - **Voila Dashboard for COVID19 with Cases and Prediction Visualization** 
 - Make sure all the libraries at the beginning of the code are installed with pip on your machine. 
 - In command prompt, type the following command to load the dashboard `voila covid19_lm_for_voila.ipynb --template=material --theme=dark` 
 - The project is still subject to modifications, contributions are very welcomed. The code also includes interactive visualisations using Plotly and IPython Widgets in JupyterLab and Jupyter Notebook.
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Kenn%20Dagogo%20final%20course%20project%20(Covid19%20dashboard).mp4)
 
 
 #	[Sentiment Analysis of the COVID19 Pandemic (NLP tool for analysis, R Language)](https://github.com/datascientist-kenn/Sentiment-Analysis-of-the-COVID19-Corona-Virus-Pandemic..git) 
