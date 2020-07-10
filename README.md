@@ -12,6 +12,7 @@
 - This project, which is for personal analysis, helps me eliminate all the noise and fake news about the number of cases of the Coronavirus pandemic. 
 - This is so that, I can keep track of the actual numbers using a data pipeline from the John Hopkins University live data. 
 - Three Models are also built here to try to predict the future behavior of the virus and possibly predict the end of it.
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Kenn%20Dagogo%20final%20course%20project%20(Covid19%20dashboard).mp4)
 
 - **Voila Dashboard for COVID19 with Cases and Prediction Visualization** 
 - Make sure all the libraries at the beginning of the code are installed with pip on your machine. 
