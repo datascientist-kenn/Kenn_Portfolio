@@ -5,7 +5,7 @@
 - Towards ensuring that the decision to provide an individual or borrower with credit is taken off the human bias, my team and I created a loan default prediction model for a credit facility in Nigeria. 
 - This model takes into consideration the borrower’s bank balances and investments to create an alternative credit score framework together with other demographic information to analyze and give an accurate prediction of the likelihood of repaying the intended loan. 
 - This project trained about 8 models and uses the Random Forest Classifier algorithm and has been tested to have a prediction accuracy of 0.93936420 (93.9%) and a predicted probability score of 0.97618 (97.6%). 
-![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(124).png)
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(124).png)![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(125).png)
 
 
 #	[Coronavirus Tracker with Python-Dash and Voila Dashboard (Not deployed)](https://github.com/datascientist-kenn/COVID19-Dashboard.git) 
@@ -35,4 +35,5 @@
 - This repository contains Exploratory Data Analysis and several Machine Learning Classifier Models algorithm. 
 - It also contains a DECISION TREE image based on the Gini Index of the data set. 
 - The link to the Kaggle data set is provided here https://www.kaggle.com/mlg-ulb/creditcardfraud/download
-![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(125).png)
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(113).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(114).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(115).png)
+![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(116).png) ![](https://github.com/datascientist-kenn/Kenn_Portfolio/blob/master/images/Screenshot%20(128).png)
