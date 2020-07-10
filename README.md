@@ -21,3 +21,8 @@
 #	[Sentiment Analysis of the COVID19 Pandemic (NLP tool for analysis, R Language)](https://github.com/datascientist-kenn/Sentiment-Analysis-of-the-COVID19-Corona-Virus-Pandemic..git) 
 - In a bid to understand how people all over the world are reacting to the spread of the Covid19 Pandemic, this project focuses on seeing the words that occur most in tweets from Twitter with #Covid19 hashtag with both WORD-CLOUD and Histogram visualizations and also calculates the analysis scores for both negative and positive sentiments (`Sentiment Analysis Visualized.R file`). 
 - The codes are easily reproducible for calculating the sentiment analysis any Twitter hashtag.                                                                   
+
+
+#	Twitter Crawler/bot (NLP tool for data cleaning, R Language)(https://github.com/datascientist-kenn/Twitter-API-Webcrawler.git) 
+- Twitter is probably the best platform to crawl data from, if any organization wants to understand how the world is reacting to any new global trend. 
+- So, this project intends to provide a tool that, with the availability of the API Details, the organization can collect about 18,000 of the most recent tweets in English language about any global trend and then analyse them with any tool they want.                                                               
